@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="article-mockup">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/fend-refresh/lesson2/problem-set/article-mockup/mockup-to-article.zip!/" />
+      <root url="jar://$PROJECT_DIR$/fend-refresh/lesson2/problem-set/article-mockup/web-dev-blog.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
